@@ -142,3 +142,45 @@ The goal was to visualize the **layout structure and user flow** of the booking 
 >  **In summary:**  
 > Low-fidelity wireframes are ideal for exploring ideas and structure, while high-fidelity wireframes refine those ideas into polished, realistic designs.
 
+##  Popular Wireframing Tools
+
+Creating wireframes is easier and more efficient with the help of modern digital design tools.  
+These tools allow designers to visualize ideas, collaborate with team members, and turn concepts into interactive prototypes.
+
+---
+
+### 💡 Commonly Used Wireframing Tools
+
+| Tool | Description | Key Features |
+|------|--------------|---------------|
+| **Figma** | A browser-based design tool used for UI/UX design and prototyping. | Real-time collaboration, cloud storage, reusable components, and interactive prototyping. |
+| **Adobe XD** | A vector-based tool for designing and prototyping user experiences. | Responsive design features, animation support, and seamless integration with other Adobe products. |
+| **Balsamiq** | Focuses on low-fidelity wireframes with a hand-drawn style. | Fast sketching, simplicity, and excellent for brainstorming sessions. |
+| **Sketch** | A macOS-based design tool ideal for high-fidelity UI designs. | Reusable symbols, plugins, and collaboration through Sketch Cloud. |
+| **Draw.io (diagrams.net)** | A free, web-based diagramming tool for flowcharts and basic wireframes. | Easy drag-and-drop interface, offline access, and file export options. |
+
+---
+
+###  Recommended Tool: **Figma**
+
+**Figma** is one of the most popular and powerful tools for creating both **low-fidelity** and **high-fidelity** wireframes.  
+It’s entirely web-based, meaning you can design, share, and collaborate without installing heavy software.
+
+####  Key Features of Figma
+- **Real-Time Collaboration:** Multiple users can edit the same design simultaneously — perfect for teamwork and feedback.  
+- **Component System:** Reuse design elements across pages to maintain consistency.  
+- **Interactive Prototyping:** Create clickable prototypes to simulate real user interactions.  
+- **Cloud-Based Access:** Automatically saves your work and allows sharing with just a link.  
+- **Integration-Friendly:** Works well with tools like Slack, Notion, and GitHub for seamless workflow.
+
+####  Why Figma is Useful for Wireframing
+- Easy to learn and beginner-friendly  
+- Offers free plans for students and teams  
+- Streamlines the transition from wireframes → mockups → prototypes  
+- Ideal for both **individual designers** and **collaborative projects**
+
+---
+
+>  **In summary:**  
+> Tools like **Figma**, **Adobe XD**, and **Balsamiq** simplify the wireframing process — but Figma stands out for its **collaboration**, **cloud-based design**, and **versatility** across all stages of the design process.
+
